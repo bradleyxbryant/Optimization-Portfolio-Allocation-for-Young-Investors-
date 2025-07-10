@@ -56,7 +56,7 @@ Built in Excel and supported with Monte Carlo simulation and a full financial mo
 
 
 
-## 💡 Business Impact
+## Business Impact
 
 This model helps young professionals make **data-driven retirement decisions** by optimizing return without blindly investing in index funds. It lays the foundation for building Python-based tools used by analysts and hedge funds.
 
